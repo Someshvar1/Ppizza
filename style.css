@@ -144,6 +144,11 @@ ol.menulist>li
     width: 100%;
     height:500px;
 }
+.img_div{
+	width:40%;
+	margin-left:20px;
+	margin-top:40px;
+}
 .block1{
     padding-top:40px;
 }
